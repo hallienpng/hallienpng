@@ -1,16 +1,24 @@
-## Hi there 👋
+# Белоусова Арина
 
-<!--
-**hallienpng/hallienpng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Обо мне
+**Начинающий специалист в области анализа данных и машинного обучения.  Моя цель - развиваться в data science и применять ML к реальным данным. Особенно интересны задачи на стыке науки и пользовательских сервисов / медицины.**
 
-Here are some ideas to get you started:
+В этом репозитории представлены несколько моих pet-проектов, которые были реализованы в рамках как самостоятельной работы, так и исследовательских хакатонов.
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Проекты
+
+**ИИ-агент для сбора умного анамнеза пациента и записи ко врачу**
+Telegram-бот на Python (aiogram) с LLM+RAG модулем (LangChain, Gemini, FAISS) для структурирования жалоб пациента и автоматизации маршрутизации на прием к врачу.
+[Python, aiogram, LangChain, Gemini API, FAISS, SQLite, Docker]
+→ [repo](https://github.com/ViacheTix/your-med-bot)
+
+**MRI Brain Tumor Segmentation**
+Semantic segmentation of brain tumors on MRI scans.
+[Stack: PyTorch, MONAI] · [результат: dice score XX]
+→ [repo](ссылка)
+
+**RAG Financial Assistant**
+Document-based Q&A system over financial documentation.
+[Stack: LangChain, FAISS, OpenAI API]
+→ [repo](ссылка)
