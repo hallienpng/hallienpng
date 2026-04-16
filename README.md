@@ -2,7 +2,9 @@
 и её проекты
 
 ### Обо мне
-**Начинающий специалист в области анализа данных и машинного обучения.  Моя цель - развиваться в data science и применять ML к реальным данным. Особенно интересны задачи на стыке науки и пользовательских сервисов / медицины.**
+**Начинающий специалист в области анализа данных и машинного обучения с опытом статистической
+обработки научных данных и разработки ML-моделей. Наиболее интересуюсь задачам на стыке
+биомедицины и ML.**
 
 В этом репозитории представлены несколько моих pet-проектов, которые были реализованы в рамках как самостоятельной работы, так и исследовательских хакатонов.
 
@@ -16,10 +18,13 @@ Telegram-бот на Python (aiogram) с LLM+RAG модулем (LangChain, Gemi
 
 → [Репозиторий](https://github.com/ViacheTix/your-med-bot)
 
-**MRI Brain Tumor Segmentation**
-Semantic segmentation of brain tumors on MRI scans.
-[Stack: PyTorch, MONAI] · [результат: dice score XX]
-→ [repo](ссылка)
+**Brain Tumor Segmentation with UNet**
+
+Сравнительный анализ архитектур на основе UNet в сегментации опухолей на МРТ.
+
+*Stack: Python, PyTorch, NumPy, h5py, Matplotlib, tqdmr*
+
+→ [Репозиторий](https://github.com/hallienpng/UNet-Segmentation-comparison))
 
 **RAG Financial Assistant**
 
