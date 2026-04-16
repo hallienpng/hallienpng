@@ -10,7 +10,7 @@
 
 ### Проекты
 
-**ИИ-агент для сбора умного анамнеза пациента и записи ко врачу**
+**1) ИИ-агент для сбора умного анамнеза пациента и записи ко врачу**
 
 Telegram-бот на Python (aiogram) с LLM+RAG модулем (LangChain, Gemini, FAISS) для структурирования жалоб пациента и автоматизации маршрутизации на прием к врачу.
 
@@ -18,15 +18,15 @@ Telegram-бот на Python (aiogram) с LLM+RAG модулем (LangChain, Gemi
 
 → [Репозиторий](https://github.com/ViacheTix/your-med-bot)
 
-**Brain Tumor Segmentation with UNet**
+**2) Brain Tumor Segmentation with UNet**
 
 Сравнительный анализ архитектур на основе UNet в сегментации опухолей на МРТ.
 
 *Stack: Python, PyTorch, NumPy, h5py, Matplotlib, tqdmr*
 
-→ [Репозиторий](https://github.com/hallienpng/UNet-Segmentation-comparison))
+→ [Репозиторий](https://github.com/hallienpng/UNet-Segmentation-comparison)
 
-**RAG Financial Assistant**
+**3) RAG Financial Assistant**
 
 RAG-решение для финтех-хакатона: система отвечает на финансовые вопросы с помощью FAISS-поиска, rerank и LLM. Создан полный пайплайн от индексации базы знаний до генерации сабмита.
 
