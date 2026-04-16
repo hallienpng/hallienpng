@@ -26,7 +26,15 @@ Telegram-бот на Python (aiogram) с LLM+RAG модулем (LangChain, Gemi
 
 → [Репозиторий](https://github.com/hallienpng/UNet-Segmentation-comparison)
 
-**3) RAG Financial Assistant**
+**3) ИИ-агент для анализа медицинской статистики Санкт-Петербурга через Text-to-SQL**
+
+Веб-приложение на Streamlit с LLM-агентом (LangChain, OpenRouter), который переводит вопросы на естественном языке в SQL-запросы к DuckDB, автоматически исправляет ошибочные запросы (self-correction loop) и генерирует аналитический вывод с интерактивными графиками.
+
+*Stack: Python, LangChain, OpenRouter API, DuckDB, Streamlit, Plotly*
+
+→ [Репозиторий](https://github.com/ViacheTix/medhakathon)
+
+**4) RAG Financial Assistant**
 
 RAG-решение для финтех-хакатона: система отвечает на финансовые вопросы с помощью FAISS-поиска, rerank и LLM. Создан полный пайплайн от индексации базы знаний до генерации сабмита.
 
